@@ -2,7 +2,7 @@
 
 
 #### Fique a vontade para entrar em contato!
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](te.me/mtslmdcnc637)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://te.me/mtslmdcnc637)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512997856048)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtslmdcnc637&show_icons=true&theme=dracula)
